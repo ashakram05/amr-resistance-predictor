@@ -200,6 +200,8 @@ This project is for educational and research purposes.
 
 **Ayesha Akram**
 
+**Simrah Faisal**
+
 BS Computer Science
 
 Machine Learning & AI Enthusiast
